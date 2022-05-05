@@ -9,5 +9,6 @@ public class Test1 {
         System.out.println("master commit1");
         System.out.println("pox-fix2");
         System.out.println("push  masterGit");
+       System.out.println("pull  masterGit");
     }
 }
