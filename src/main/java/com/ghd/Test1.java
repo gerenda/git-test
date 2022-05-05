@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("hello git4");
         System.out.println("master commit1");
         System.out.println("pox-fix2");
+        System.out.println("push  masterGit");
     }
 }
